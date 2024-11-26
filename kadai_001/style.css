@@ -68,19 +68,13 @@ h2 {
 #works {
   display: flex;
   justify-content: center;
-  margin: 50px auto;
+  margin: 0 auto;
   max-width: 960px;
 }
 .works-photo {
-  width: 70%;
-}
-.works-photo img {
-  width: 300px;
-  padding: 0 10px;
-}
-.works-photo p {
-  overflow-wrap: normal;
   margin: 0 10px;
+  padding-bottom: 60px;
+  width: 30%;
 }
 footer p {
   text-align: center;
